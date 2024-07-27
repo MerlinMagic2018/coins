@@ -7711,6 +7711,7 @@
     "coin": "FRC",
     "name": "faircoin",
     "fname": "FairCoin",
+    "sign_message_prefix": "FairCoin Signed Message:\n",
     "rpcport": 9875,
     "pubtype": 36,
     "p2shtype": 63,
