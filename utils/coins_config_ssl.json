@@ -800,58 +800,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "ABY": {
-        "coin": "ABY",
-        "type": "UTXO",
-        "name": "ArtByte",
-        "coinpaprika_id": "aby-artbyte",
-        "coingecko_id": "artbyte",
-        "livecoinwatch_id": "ABY",
-        "explorer_url": "https://chainz.cryptoid.info/aby/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "ArtByte",
-        "isPoS": 1,
-        "rpcport": 9262,
-        "pubtype": 28,
-        "p2shtype": 85,
-        "wiftype": 153,
-        "txfee": 100000,
-        "dust": 100000,
-        "mm2": 1,
-        "mature_confirmations": 550,
-        "required_confirmations": 7,
-        "avg_blocktime": 45,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "electrum": [
-            {
-                "url": "aby-ex-four.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "electrumx-three.artbyte.live:50012",
-                "protocol": "SSL"
-            },
-            {
-                "url": "elec-seeder-one.artbytecoin.org:50012",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
     "ADA-BEP20": {
         "coin": "ADA-BEP20",
         "type": "BEP-20",
@@ -4407,51 +4355,6 @@
         "token_address_url": "token/",
         "explorer_block_url": "block/"
     },
-    "BBK": {
-        "coin": "BBK",
-        "type": "UTXO",
-        "name": "BitBlocks",
-        "coinpaprika_id": "bbk-bitblocks",
-        "coingecko_id": "",
-        "livecoinwatch_id": "BBK",
-        "explorer_url": "https://chainz.cryptoid.info/bbk/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": true,
-        "sign_message_prefix": "DarkNet Signed Message:\n",
-        "fname": "BitBlocks",
-        "rpcport": 59768,
-        "pubtype": 25,
-        "p2shtype": 85,
-        "wiftype": 107,
-        "txfee": 10000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "links": {
-            "github": "https://github.com/BitBlocksProject/BitBlocks",
-            "homepage": "https://bitblocksproject.com"
-        },
-        "electrum": [
-            {
-                "url": "bbk-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
-    },
     "BBK-BEP20": {
         "coin": "BBK-BEP20",
         "type": "BEP-20",
@@ -5863,10 +5766,6 @@
         },
         "derivation_path": "m/44'/664'",
         "electrum": [
-            {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
             {
                 "url": "electrumserver02.globalboost.info:50014",
                 "protocol": "SSL"
@@ -8375,54 +8274,6 @@
             }
         ],
         "explorer_block_url": "block/"
-    },
-    "CLAM": {
-        "coin": "CLAM",
-        "type": "UTXO",
-        "name": "Clams",
-        "coinpaprika_id": "clam-clams",
-        "coingecko_id": "clams",
-        "livecoinwatch_id": "CLAM",
-        "explorer_url": "https://chainz.cryptoid.info/clam/",
-        "explorer_tx_url": "tx.dws?",
-        "explorer_address_url": "address.dws?",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Clam Signed Message:\n",
-        "fname": "Clams",
-        "isPoS": 1,
-        "rpcport": 30174,
-        "pubtype": 137,
-        "p2shtype": 13,
-        "wiftype": 133,
-        "segwit": false,
-        "txfee": 10000,
-        "mm2": 1,
-        "required_confirmations": 5,
-        "avg_blocktime": 60,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/23'",
-        "links": {
-            "github": "https://github.com/nochowderforyou/clams",
-            "homepage": "http://clamclient.com"
-        },
-        "electrum": [
-            {
-                "url": "clam-ex-one.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block.dws?"
     },
     "CLP-BEP20": {
         "coin": "CLP-BEP20",
@@ -15864,16 +15715,6 @@
             {
                 "url": "electrum.maxpuig.com:50002",
                 "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "orpheas#1503"
-                    }
-                ]
-            },
-            {
-                "url": "uk.garlium.crapules.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "orpheas#1503"
@@ -27857,6 +27698,14 @@
         },
         "electrum": [
             {
+                "url": "electrum01.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "electrum02.reddcoin.com:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "electrum03.reddcoin.com:50002",
                 "protocol": "SSL"
             }
@@ -38174,15 +38023,6 @@
         },
         "electrum": [
             {
-                "url": "zet-ex-three.ewmci.online:50012",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "zeta-seed-d.zetacoin.network:50012",
                 "protocol": "SSL"
             }
@@ -40910,15 +40750,6 @@
         "slp_prefix": "slptest",
         "electrum": [
             {
-                "url": "electroncash.de:50004",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "website": "https://1209k.com/bitcoin-eye/ele.php?chain=tbch"
-                    }
-                ]
-            },
-            {
                 "url": "electrs.electroncash.de:60002",
                 "protocol": "SSL",
                 "contact": [
@@ -41005,6 +40836,21 @@
         },
         "electrum": [
             {
+                "url": "electrumx1.cointest.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
+            },
+            {
                 "url": "electrumx2.cointest.com:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -41058,6 +40904,21 @@
             "type": "UTXO"
         },
         "electrum": [
+            {
+                "url": "electrumx1.cointest.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "protocol@whive.io"
+                    },
+                    {
+                        "discord": "whiveio#9340"
+                    },
+                    {
+                        "twitter": "whiveio"
+                    }
+                ]
+            },
             {
                 "url": "electrumx2.cointest.com:50002",
                 "protocol": "SSL",
@@ -41850,83 +41711,6 @@
                         "email": "brian@mazacoin.org"
                     }
                 ]
-            },
-            {
-                "url": "electrumx2.mazacha.in:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "contact@mazacoin.org"
-                    },
-                    {
-                        "discord": "sherm77#5923"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "CRNC": {
-        "coin": "CRNC",
-        "type": "UTXO",
-        "name": "CrionicCoin",
-        "coinpaprika_id": "crnc-crionic",
-        "coingecko_id": "crionic",
-        "livecoinwatch_id": "CRNC",
-        "explorer_url": "https://explorer.crionic.org/",
-        "explorer_tx_url": "",
-        "explorer_address_url": "",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Crioniccoin Signed Message:\n",
-        "fname": "CrionicCoin",
-        "rpcport": 4466,
-        "pubtype": 28,
-        "p2shtype": 45,
-        "wiftype": 176,
-        "decimals": 8,
-        "signature_version": "base",
-        "txfee": 10000,
-        "segwit": true,
-        "bech32_hrp": "crnc",
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 20,
-        "protocol": {
-            "type": "UTXO"
-        },
-        "derivation_path": "m/44'/192'",
-        "links": {
-            "github": "https://github.com/diabaths/Crionic-Coin",
-            "homepage": "https://coin.crionic.org"
-        },
-        "electrum": [
-            {
-                "url": "coin.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
-            },
-            {
-                "url": "explorer.crionic.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "diabatiis@gmail.com"
-                    },
-                    {
-                        "discord": "Diabaths#1919"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -42026,6 +41810,24 @@
             "homepage": "https://kiirocoin.org"
         },
         "electrum": [
+            {
+                "url": "electrum1.kiirocoin.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.kiirocoin.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
+                    }
+                ]
+            },
             {
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
