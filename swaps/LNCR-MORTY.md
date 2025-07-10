@@ -1,0 +1,5 @@
+[taker fee (MORTY)](https://morty.explorer.dexstats.info/tx/)  
+[maker payment (LNCR)](https://explorer.lightningcash-reborn.space/tx/)  
+[taker payment (MORTY)](https://morty.explorer.dexstats.info/tx/)  
+[taker payment spent (MORTY)](https://morty.explorer.dexstats.info/tx/)  
+[maker payment spent (LNCR)](https://explorer.lightningcash-reborn.space/tx/)  
