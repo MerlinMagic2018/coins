@@ -4032,15 +4032,6 @@
         },
         "electrum": [
             {
-                "url": "bbk-ex-three.ewmci.online:50003",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "bbk-ex-two.ewmci.online:50003",
                 "protocol": "WSS",
                 "contact": [
@@ -20336,31 +20327,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -20441,31 +20408,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52004",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -40852,6 +40795,15 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50004",
                 "protocol": "WSS",
                 "contact": [
                     {
