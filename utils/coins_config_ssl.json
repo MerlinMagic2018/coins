@@ -4566,15 +4566,6 @@
         },
         "electrum": [
             {
-                "url": "bbk-ex-three.ewmci.online:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "bbk-ex-two.ewmci.online:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -22435,6 +22426,46 @@
         ],
         "explorer_block_url": "block.dws?"
     },
+    "LNCR": {
+        "coin": "LNCR",
+        "type": "UTXO",
+        "name": "LightningCash-Reborn",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.lightningcash-reborn.space/tx/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Lightning Signed Message:\n",
+        "fname": "LightningCash-Reborn",
+        "rpcport": 9112,
+        "pubtype": 28,
+        "p2shtype": 50,
+        "wiftype": 176,
+        "decimals": 8,
+        "signature_version": "base",
+        "txfee": 1000,
+        "segwit": true,
+        "bech32_hrp": "lncr",
+        "mm2": 1,
+        "required_confirmations": 6,
+        "avg_blocktime": 10,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/192'",
+        "links": {
+            "github": "https://github.com/MerlinMagic2018/LightningCash-R",
+            "homepage": "https://lightningcash-reborn.space"
+        },
+        "electrum": [],
+        "explorer_block_url": "block/"
+    },
     "LCN": {
         "coin": "LCN",
         "type": "UTXO",
@@ -22486,31 +22517,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22591,31 +22598,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.lcnxp.com:52002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "jaybitron@gmail.com"
-                    },
-                    {
-                        "discord": "jaybitron"
-                    }
-                ]
-            },
-            {
-                "url": "electrum4.lcnxp.com:52002",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -45486,15 +45469,6 @@
                 ]
             },
             {
-                "url": "electrum2.kiirocoin.org:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "github": "https://github.com/kiirocoin/electrum-kiiro/issues"
-                    }
-                ]
-            },
-            {
                 "url": "electrum3.kiirocoin.org:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -45607,6 +45581,15 @@
             },
             {
                 "url": "meowcoinelectrum.xyz:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
+            {
+                "url": "meowelectrum.xyz:50002",
                 "protocol": "SSL",
                 "contact": [
                     {
