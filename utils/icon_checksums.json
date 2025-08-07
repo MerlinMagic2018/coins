@@ -1854,5 +1854,9 @@
   "sc.png": {
     "original": "cd5a675a2295047b174cae7effaac7a3bb8d7f61f84229936368b5d23ce5c8ae",
     "processed": "a52af53fbaf3e23e839598006c2691cdbc6b1abb548f2e7f34a2eb4a199d72fa"
+  },
+  "lncr.png": {
+    "original": "1d8cb9958a04eaf929fb47d3fdcf90cc27d688af378b29936285ebbfd719b54b",
+    "processed": "b1b560565a49683064e173c51738bee2acd028f1f129a57237a0b11adeb7bd89"
   }
 }
