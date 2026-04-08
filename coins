@@ -8354,7 +8354,7 @@
   {
     "coin": "LNCR",
     "name": "lightningcash-reborn",
-    "fname": "LightningCash-Reborn",https://github.com/MerlinMagic2018/coins
+    "fname": "LightningCash-Reborn",
     "sign_message_prefix": "Lightning Signed Message:\n",
     "rpcport": 9112,
     "pubtype": 28,
