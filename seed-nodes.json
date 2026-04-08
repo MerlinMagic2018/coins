@@ -4,7 +4,7 @@
         "host": "seed01.kmdefi.net",
         "type": "domain",
         "wss": true,
-        "netid": 8762,
+        "netid": 6133,
         "contact": [
             {
                 "email": ""
@@ -24,10 +24,34 @@
         ]
     },
     {
+        "name": "seed-node-3",
+        "host": "seed03.kmdefi.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 6133,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-node-4",
+        "host": "seed04.kmdefi.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
         "name": "balerion-dragon-seed",
         "host": "balerion.dragon-seed.com",
         "type": "domain",
-        "wss": true,
+        "wss": false,
         "netid": 8762,
         "contact": [
             {
@@ -36,10 +60,10 @@
         ]
     },
     {
-        "name": "falkor-dragon-seed",
-        "host": "falkor.dragon-seed.com",
+        "name": "sintara-dragon-seed",
+        "host": "sintara.dragon-seed.com",
         "type": "domain",
-        "wss": true,
+        "wss": false,
         "netid": 8762,
         "contact": [
             {
@@ -48,11 +72,35 @@
         ]
     },
     {
-        "name": "drogon-dragon-seed",
-        "host": "drogon.dragon-seed.com",
+        "name": "seed-decker-1",
+        "host": "kdfseed1.decker.im",
         "type": "domain",
         "wss": true,
-        "netid": 8762,
+        "netid": 6133,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-gleec-1",
+        "host": "staking1.gleec.com",
+        "type": "domain",
+        "wss": true,
+        "netid": 6133,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-gleec-2",
+        "host": "staking2.gleec.com",
+        "type": "domain",
+        "wss": true,
+        "netid": 6133,
         "contact": [
             {
                 "email": ""
