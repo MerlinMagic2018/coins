@@ -1,13 +1,13 @@
 [
   {
-    "url": "lightningcash-reborn.space:50001",
+    "url": "lightningcash-reborn.online:50001",
     "protocol": "TCP",
     "contact": [
       { "discord": "856619361972518922" }
     ]
   },
   {
-    "url": "24.203.200.156:50001",
+    "url": "104.207.143.166:50001",
     "protocol": "TCP",
     "contact": [
       { "discord": "856619361972518922" }
