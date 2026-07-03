@@ -1,6 +1,6 @@
 # What is the coins repository for?
 
-This repository is the coins database which is used to define parameters for coins compatible with the [Komodo DeFi Framework](https://github.com/KomodoPlatform/komodo-defi-framework/), and listed within the apps below:
+This repository is the coins database which is used to define parameters for coins compatible with the [Komodo DeFi Framework](https://github.com/KomodoPlatform/komodo-defi-framework/), and listed within the apps below :
 
 <p align="center">
     <a href="https://github.com/KomodoPlatform/komodo-wallet-mobile"><img src="https://user-images.githubusercontent.com/35845239/226103567-6d6872de-b0aa-4b87-9ba6-b692be314861.png" alt="Komodo Wallet Mobile"></a>
