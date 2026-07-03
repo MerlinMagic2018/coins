@@ -25476,7 +25476,7 @@
         "coinpaprika_id": "",
         "coingecko_id": "",
         "livecoinwatch_id": "",
-        "explorer_url": "https://explorer.lightningcash-reborn.space/tx/",
+        "explorer_url": "https://explorer.lightningcash-reborn.online/tx/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
@@ -25504,11 +25504,11 @@
         "derivation_path": "m/44'/192'",
         "links": {
             "github": "https://github.com/MerlinMagic2018/LightningCash-R",
-            "homepage": "https://lightningcash-reborn.space"
+            "homepage": "https://lightningcash-reborn.online"
         },
         "electrum": [
             {
-                "url": "24.203.200.156:50001",
+                "url": "104.207.143.166:50001",
                 "protocol": "TCP",
                 "contact": [
                     {
@@ -25517,7 +25517,7 @@
                 ]
             },
             {
-                "url": "lightningcash-reborn.space:50001",
+                "url": "lightningcash-reborn.online:50001",
                 "protocol": "TCP",
                 "contact": [
                     {
